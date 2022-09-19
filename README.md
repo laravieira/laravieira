@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![GitHub Snake dark](https://github.com/laravieira/laravieira/blob/output/github-contribution-grid-snake.svg)
+<img alt="Cat" src="https://raw.githubusercontent.com/laravieira/laravieira/output/cat.gif" width="100" align="right">
+<img alt="GitHub Snake dark" src="https://github.com/laravieira/laravieira/blob/output/github-contribution-grid-snake.svg" align="left">
